@@ -105,3 +105,9 @@ ENV/
 
 # API KEYS
 apiKey.json
+
+# TEXT FILES
+songs.txt
+
+# AUDIO FILES
+*.mp3
