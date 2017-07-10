@@ -8,11 +8,11 @@ A simple python module to download songs from youtube. The module internally use
 
 1. Create / use your existing Google API developer keys and update them in `apiKey.json`. The developer keys can be obtained  [here](https://console.developers.google.com/apis/credentials)
 
-2. Install the required python modules. Run the command
+2. Use a virtual environment and install the required python modules using
 
-        pip install requirements.txt
+        pip install -r requirements.txt
 
 #### USAGE
 Update `songs.txt` with the list of songs that you want to download and execute
 
-        python main.py
+    python main.py
